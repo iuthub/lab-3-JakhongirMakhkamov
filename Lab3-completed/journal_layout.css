@@ -1,0 +1,62 @@
+body
+{
+
+  margin: 0 10%;
+  background-image:url(images/background.gif);
+}
+
+img
+{
+  float: right;
+}
+
+#main-body
+{
+  border: 10px #fff solid;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+#head
+{
+  background-color: #A8F0F0;
+  text-align: right;
+}
+
+#defenition
+{
+  font-size: 14pt;
+}
+
+#side-bar
+{
+  float: left;
+  border: 5px #009097 solid;
+  background-color: #A8E0F0;
+  padding: 7px;
+  margin: 10px 10px 10px 0;;
+}
+
+.info
+{
+  border: 4px #C2E9E9 solid;
+  background-color: #E8FBFB;
+  padding: 5px;
+  margin: 10px 0 0 0;
+  overflow: hidden;
+}
+
+.container
+{
+  overflow: hidden;
+}
+
+.date
+{
+  border-bottom: 2px blue dashed;
+}
+
+.hovering:hover
+{
+  background: yellow;
+}
